@@ -1,0 +1,9 @@
+{
+  "name": "json-string-formatter",
+  "version": "1.0.0",
+  "description": "simple formatter for string type json",
+  "scripts": {
+  },
+  "author": "liok3187@gmail.com",
+  "license": "ISC"
+}
